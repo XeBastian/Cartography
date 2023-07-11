@@ -1,5 +1,6 @@
 ## African Drone and Data Academy
-*DISCLAIMER
+
+# DISCLAIMER
 ______________
 * These Lab resources are distributed under the Open source licence and in accordance with the ADDA Compliance.
 * These are simply exercise details and should not be used for Decision making purposes.
