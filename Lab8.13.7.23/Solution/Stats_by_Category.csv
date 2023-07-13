@@ -1,0 +1,5 @@
+cover_type,count,unique,min,max,range,sum,mean,median,stddev,minority,majority,q1,q3,iqr
+aspen,"11","1",1,1,0,11,1,1,0,1,1,1,1,0
+oak,"32","1",1,1,0,32,1,1,0,1,1,1,1,0
+northern hardwood,"3","1",1,1,0,3,1,1,0,1,1,1,1,0
+upland mixed,"1","1",1,1,0,1,1,1,0,1,1,1,1,0
