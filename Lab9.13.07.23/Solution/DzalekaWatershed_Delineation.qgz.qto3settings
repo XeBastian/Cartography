@@ -1,8 +1,247 @@
 {
+  "CAMERA": "PERSPECTIVE",
   "KEYFRAMES": {
     "camera": {
-      "groups": []
+      "groups": [
+        {
+          "enabled": true,
+          "keyframes": [
+            {
+              "camera": {
+                "fx": 594615.427362807,
+                "fy": 8496446.425262637,
+                "fz": 3.72033498545448e-15,
+                "x": 590904.3154331079,
+                "y": 8477483.365349704,
+                "z": 2422.41130661572
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 1",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 594615.427362807,
+                "fy": 8496446.425262637,
+                "fz": 3.72033498545448e-15,
+                "x": 595668.6254606935,
+                "y": 8476937.436843561,
+                "z": 2352.547989798744
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 2",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 594615.427362807,
+                "fy": 8496446.425262637,
+                "fz": 3.72033498545448e-15,
+                "x": 603456.0030087163,
+                "y": 8478733.252618989,
+                "z": 2264.152323691739
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 3",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 594615.427362807,
+                "fy": 8496446.425262637,
+                "fz": 3.72033498545448e-15,
+                "x": 610039.4744836775,
+                "y": 8483719.203862198,
+                "z": 2192.6104288182023
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 4",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 594615.427362807,
+                "fy": 8496446.425262637,
+                "fz": 3.72033498545448e-15,
+                "x": 613455.5382646876,
+                "y": 8491916.59759677,
+                "z": 2405.01799576708
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 5",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 594615.427362807,
+                "fy": 8496446.425262637,
+                "fz": 3.72033498545448e-15,
+                "x": 611979.4448513786,
+                "y": 8506059.558475478,
+                "z": 2246.3345518018623
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 6",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 594615.427362807,
+                "fy": 8496446.425262637,
+                "fz": 3.72033498545448e-15,
+                "x": 598208.1602525953,
+                "y": 8517277.760190772,
+                "z": 1711.3697668383563
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 7",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 594860.206562093,
+                "fy": 8481383.298360841,
+                "fz": 3.4015131920958537e-15,
+                "x": 593948.3982981477,
+                "y": 8498273.24233001,
+                "z": 3059.2175789561134
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 8",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 591135.7407574794,
+                "fy": 8480180.751565216,
+                "fz": 3.8703687705644174e-15,
+                "x": 590223.9324935342,
+                "y": 8497070.695534384,
+                "z": 3059.2175789560906
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 9",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 591135.7407574794,
+                "fy": 8480180.751565216,
+                "fz": 3.8703687705644174e-15,
+                "x": 580370.2144554222,
+                "y": 8495543.267177377,
+                "z": 2593.595681539607
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 10",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 595647.6691232976,
+                "fy": 8477038.91373238,
+                "fz": 2.069963349245143e-15,
+                "x": 584882.1428212404,
+                "y": 8492401.42934454,
+                "z": 2593.5956815395884
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 11",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 595647.6691232976,
+                "fy": 8477038.91373238,
+                "fz": 2.069963349245143e-15,
+                "x": 578802.2244583007,
+                "y": 8469782.473577011,
+                "z": 2710.328222092504
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 12",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 606231.2972518787,
+                "fy": 8493869.727767793,
+                "fz": 2.9976247379694634e-14,
+                "x": 589385.8525868822,
+                "y": 8486613.287612425,
+                "z": 2710.3282220924593
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 13",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 610403.7926184861,
+                "fy": 8498256.817534683,
+                "fz": 2.877597709881512e-14,
+                "x": 593558.3479534899,
+                "y": 8491000.377379315,
+                "z": 2710.3282220924357
+              },
+              "delay": 1000,
+              "duration": 2000,
+              "easing": 2,
+              "name": "keyframe 14",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 610403.7926184861,
+                "fy": 8498256.817534683,
+                "fz": 2.877597709881512e-14,
+                "x": 583080.4479521053,
+                "y": 8479017.852548337,
+                "z": 2775.5723500313115
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 15",
+              "narration": {
+                "id": "nar_65f094e4",
+                "text": "r"
+              },
+              "type": 128
+            }
+          ],
+          "name": "Group",
+          "type": 64
+        }
+      ]
     },
+    "enabled": true,
     "layers": {
       "Basin3_8f03618d_b8d7_4df5_b8bd_837d60eb1031": {
         "enabled": true,
@@ -56,6 +295,14 @@
         "enabled": true,
         "groups": []
       },
+      "FlowDir_f6a18ced_00e3_4e80_bfcd_85e12664ee20": {
+        "enabled": true,
+        "groups": []
+      },
+      "ProblemAreas_821a0187_47d5_451a_92f6_06c475e8e6c6": {
+        "enabled": true,
+        "groups": []
+      },
       "StreamSegments_3bf91e08_7f73_4819_b046_20be27a48ce4": {
         "enabled": true,
         "groups": []
@@ -64,20 +311,13 @@
         "enabled": true,
         "groups": []
       },
-      "areas_5b4a581b_544e_41bf_a7f4_a3befb767616": {
-        "enabled": true,
-        "groups": []
-      },
-      "direction_551792f2_4e77_46db_9fa8_0c715f41ce2e": {
-        "enabled": true,
-        "groups": []
-      },
       "fp:ffab50d4": {
         "enabled": true,
         "groups": []
       }
     },
-    "repeat": false
+    "repeat": false,
+    "startOnLoad": true
   },
   "LAYERS": [
     {
@@ -126,7 +366,7 @@
         "radioButton_Expression": true,
         "radioButton_IntersectingFeatures": true
       },
-      "visible": false
+      "visible": true
     },
     {
       "geomType": 3,
@@ -848,12 +1088,12 @@
         "spinBox_Roughening": 1,
         "spinBox_Size": 5
       },
-      "visible": true
+      "visible": false
     },
     {
       "geomType": 0,
-      "layerId": "direction_551792f2_4e77_46db_9fa8_0c715f41ce2e",
-      "name": "Flow direction",
+      "layerId": "FlowDir_f6a18ced_00e3_4e80_bfcd_85e12664ee20",
+      "name": "FlowDir",
       "properties": {
         "checkBox_Clickable": true,
         "checkBox_Clip": false,
@@ -886,13 +1126,13 @@
         "lineEdit_Name": "",
         "materials": [
           {
-            "id": "8e7b13d6",
+            "id": "50578525",
             "name": "map (canvas)",
             "properties": {},
             "type": 0
           }
         ],
-        "mtlId": "8e7b13d6",
+        "mtlId": "50578525",
         "spinBox_Roughening": 1,
         "spinBox_Size": 3
       },
@@ -900,8 +1140,8 @@
     },
     {
       "geomType": 0,
-      "layerId": "areas_5b4a581b_544e_41bf_a7f4_a3befb767616",
-      "name": "Problem areas",
+      "layerId": "ProblemAreas_821a0187_47d5_451a_92f6_06c475e8e6c6",
+      "name": "ProblemAreas",
       "properties": {
         "checkBox_Clickable": true,
         "checkBox_Clip": false,
@@ -934,13 +1174,13 @@
         "lineEdit_Name": "",
         "materials": [
           {
-            "id": "32dd0690",
+            "id": "189d8df2",
             "name": "map (canvas)",
             "properties": {},
             "type": 0
           }
         ],
-        "mtlId": "32dd0690",
+        "mtlId": "189d8df2",
         "spinBox_Roughening": 1,
         "spinBox_Size": 3
       },
@@ -992,7 +1232,7 @@
         "spinBox_Roughening": 1,
         "spinBox_Size": 3
       },
-      "visible": false
+      "visible": true
     },
     {
       "geomType": 0,
@@ -1088,13 +1328,31 @@
       "visible": false
     }
   ],
+  "OPT": {
+    "animation.enabled": true,
+    "animation.startOnLoad": true,
+    "localMode": true,
+    "viewpoint": {
+      "lookAt": {
+        "x": 594016.7085701488,
+        "y": 8489639.95972217,
+        "z": 1464.0177701737286
+      },
+      "pos": {
+        "x": 581395.6430577615,
+        "y": 8496395.636213852,
+        "z": 2394.2173422614565
+      }
+    }
+  },
+  "OutputFilename": "D:/Projects/ADDA/QGIS/Lab9.13.07.23/Solution/WebVisualization\\index.html",
   "SCENE": {
-    "checkBox_FixAspectRatio": true,
+    "checkBox_FixAspectRatio": false,
     "checkBox_Outline": false,
     "colorButton_Color": [
-      0,
-      0,
-      0,
+      42,
+      152,
+      241,
       255
     ],
     "colorButton_Fog": [
@@ -1104,15 +1362,30 @@
       255
     ],
     "comboBox_MaterialType": 0,
-    "comboBox_xyShift": true,
+    "comboBox_xyShift": false,
     "groupBox_Fog": false,
-    "lineEdit_CenterX": "595232.1503880118",
-    "lineEdit_CenterY": "8489196.232814366",
+    "lineEdit_CenterX": "594479.5957371397",
+    "lineEdit_CenterY": "8488891.62736044",
     "lineEdit_Height": "28346.225182854803",
     "lineEdit_Rotation": "0",
     "lineEdit_Width": "28346.225182854803",
-    "lineEdit_zFactor": "6.0",
+    "lineEdit_zFactor": "5.0",
+    "radioButton_Color": true,
+    "radioButton_FixedExtent": true,
+    "radioButton_WGS84": true,
     "slider_Fog": 21
   },
-  "Version": 20701
+  "Template": "3DViewer.html",
+  "Title": "Watershed Delineation. Ernest Sebastian",
+  "Version": 20701,
+  "WIDGETS": {
+    "Label": {
+      "Footer": "<h4> By Ernest Sebastian</h4>\n<p>16th July 23</p>",
+      "Header": " "
+    },
+    "NorthArrow": {
+      "color": "0x040404",
+      "visible": false
+    }
+  }
 }
