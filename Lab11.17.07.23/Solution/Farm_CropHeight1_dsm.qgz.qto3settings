@@ -1,0 +1,188 @@
+{
+  "KEYFRAMES": {
+    "camera": {
+      "groups": []
+    },
+    "layers": {
+      "CanopyHeight_bf0f74bc_08cf_461a_b790_9485a54d2a78": {
+        "enabled": true,
+        "groups": []
+      },
+      "dsm_1e8e41f4_ac77_4d06_a876_1af23d5e2bff": {
+        "enabled": true,
+        "groups": []
+      },
+      "dsm_45cd9f75_74e6_44e9_8c41_3c0b1d991e18": {
+        "enabled": true,
+        "groups": []
+      },
+      "dtm_30941047_bdae_442f_9e2a_d417375b949e": {
+        "enabled": true,
+        "groups": []
+      },
+      "fp:be9ac3d5": {
+        "enabled": true,
+        "groups": []
+      }
+    },
+    "repeat": false
+  },
+  "LAYERS": [
+    {
+      "geomType": 0,
+      "layerId": "CanopyHeight_bf0f74bc_08cf_461a_b790_9485a54d2a78",
+      "name": "CanopyHeight",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": null,
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "ae9c4c89",
+            "name": "map (canvas)",
+            "properties": {
+              "checkBox_Shading": true,
+              "checkBox_TransparentBackground": true,
+              "comboBox_TextureSize": "1024",
+              "radioButton_PNG": true,
+              "spinBox_Opacity": 100
+            },
+            "type": 0
+          }
+        ],
+        "mtlId": "ae9c4c89",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": true
+    },
+    {
+      "geomType": 0,
+      "layerId": "dsm_1e8e41f4_ac77_4d06_a876_1af23d5e2bff",
+      "name": "dsm",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": null,
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "0a852b19",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "0a852b19",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": true
+    },
+    {
+      "geomType": 0,
+      "layerId": "dsm_45cd9f75_74e6_44e9_8c41_3c0b1d991e18",
+      "name": "dsm_copy",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "dtm_30941047_bdae_442f_9e2a_d417375b949e",
+      "name": "dtm",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "fp:be9ac3d5",
+      "name": "Flat Plane",
+      "properties": {},
+      "visible": false
+    }
+  ],
+  "SCENE": {
+    "checkBox_FixAspectRatio": true,
+    "checkBox_Outline": false,
+    "colorButton_Color": [
+      0,
+      0,
+      0,
+      255
+    ],
+    "colorButton_Fog": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "comboBox_MaterialType": 0,
+    "comboBox_xyShift": true,
+    "groupBox_Fog": false,
+    "lineEdit_CenterX": "356329.0377246534",
+    "lineEdit_CenterY": "3863405.1557688406",
+    "lineEdit_Height": "316.6698467422975",
+    "lineEdit_Rotation": "0",
+    "lineEdit_Width": "316.6698467422975",
+    "lineEdit_zFactor": "2.0",
+    "slider_Fog": 41
+  },
+  "Version": 20701,
+  "WIDGETS": {
+    "Label": {
+      "Footer": "",
+      "Header": "Created By Ernest Sebastian\n18.07.2023"
+    }
+  }
+}
