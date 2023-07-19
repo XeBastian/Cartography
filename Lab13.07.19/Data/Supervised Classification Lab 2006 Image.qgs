@@ -1,0 +1,503 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis projectname="" version="2.18.19">
+  <title></title>
+  <autotransaction active="0"/>
+  <evaluateDefaultValues active="0"/>
+  <layer-tree-group expanded="1" checked="Qt::Checked" name="">
+    <customproperties/>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B720200825030301289" source="C:\Users\Theoma\Documents\ADDA Online Labs\Day 13\BTCITY 2006 Images\BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B7.tif" name="BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B7">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B620200825030301268" source="C:\Users\Theoma\Documents\ADDA Online Labs\Day 13\BTCITY 2006 Images\BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B6.tif" name="BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B6">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B520200825030301245" source="C:\Users\Theoma\Documents\ADDA Online Labs\Day 13\BTCITY 2006 Images\BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B5.tif" name="BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B5">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B420200825030301222" source="C:\Users\Theoma\Documents\ADDA Online Labs\Day 13\BTCITY 2006 Images\BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B4.tif" name="BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B4">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B320200825030301197" source="C:\Users\Theoma\Documents\ADDA Online Labs\Day 13\BTCITY 2006 Images\BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B3.tif" name="BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B3">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B220200825030301175" source="C:\Users\Theoma\Documents\ADDA Online Labs\Day 13\BTCITY 2006 Images\BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B2.tif" name="BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B2">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B120200825030301116" source="C:\Users\Theoma\Documents\ADDA Online Labs\Day 13\BTCITY 2006 Images\BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B1.tif" name="BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B1">
+      <customproperties/>
+    </layer-tree-layer>
+  </layer-tree-group>
+  <relations/>
+  <mapcanvas>
+    <units>meters</units>
+    <extent>
+      <xmin>712418.17589820362627506</xmin>
+      <ymin>-1758612.26497005997225642</ymin>
+      <xmax>730688.17589820362627506</xmax>
+      <ymax>-1736026.76497005997225642</ymax>
+    </extent>
+    <rotation>0</rotation>
+    <projections>0</projections>
+    <destinationsrs>
+      <spatialrefsys>
+        <proj4>+proj=utm +zone=36 +datum=WGS84 +units=m +no_defs</proj4>
+        <srsid>3120</srsid>
+        <srid>32636</srid>
+        <authid>EPSG:32636</authid>
+        <description>WGS 84 / UTM zone 36N</description>
+        <projectionacronym>utm</projectionacronym>
+        <ellipsoidacronym>WGS84</ellipsoidacronym>
+        <geographicflag>false</geographicflag>
+      </spatialrefsys>
+    </destinationsrs>
+    <rendermaptile>0</rendermaptile>
+    <layer_coordinate_transform_info/>
+  </mapcanvas>
+  <layer-tree-canvas>
+    <custom-order enabled="0">
+      <item>BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B120200825030301116</item>
+      <item>BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B220200825030301175</item>
+      <item>BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B320200825030301197</item>
+      <item>BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B420200825030301222</item>
+      <item>BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B520200825030301245</item>
+      <item>BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B620200825030301268</item>
+      <item>BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B720200825030301289</item>
+    </custom-order>
+  </layer-tree-canvas>
+  <legend updateDrawingOrder="true">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B7" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B720200825030301289" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B6" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B620200825030301268" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B5" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B520200825030301245" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B4" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B420200825030301222" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B3" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B320200825030301197" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B2" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B220200825030301175" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B1" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B120200825030301116" visible="1"/>
+      </filegroup>
+    </legendlayer>
+  </legend>
+  <projectlayers>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>710385</xmin>
+        <ymin>-1758345</ymin>
+        <xmax>727785</xmax>
+        <ymax>-1736835</ymax>
+      </extent>
+      <id>BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B120200825030301116</id>
+      <datasource>./BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B1.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B1</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=36 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3120</srsid>
+          <srid>32636</srid>
+          <authid>EPSG:32636</authid>
+          <description>WGS 84 / UTM zone 36N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>0.0928854168951511</minValue>
+            <maxValue>0.14327626273036</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>710385</xmin>
+        <ymin>-1758345</ymin>
+        <xmax>727785</xmax>
+        <ymax>-1736835</ymax>
+      </extent>
+      <id>BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B220200825030301175</id>
+      <datasource>./BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B2.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B2</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=36 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3120</srsid>
+          <srid>32636</srid>
+          <authid>EPSG:32636</authid>
+          <description>WGS 84 / UTM zone 36N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>0.0787857711687684</minValue>
+            <maxValue>0.14678090583533</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>710385</xmin>
+        <ymin>-1758345</ymin>
+        <xmax>727785</xmax>
+        <ymax>-1736835</ymax>
+      </extent>
+      <id>BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B320200825030301197</id>
+      <datasource>./BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B3.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B3</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=36 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3120</srsid>
+          <srid>32636</srid>
+          <authid>EPSG:32636</authid>
+          <description>WGS 84 / UTM zone 36N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>0.0572532292678952</minValue>
+            <maxValue>0.149637935183942</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>710385</xmin>
+        <ymin>-1758345</ymin>
+        <xmax>727785</xmax>
+        <ymax>-1736835</ymax>
+      </extent>
+      <id>BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B420200825030301222</id>
+      <datasource>./BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B4.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B4</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=36 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3120</srsid>
+          <srid>32636</srid>
+          <authid>EPSG:32636</authid>
+          <description>WGS 84 / UTM zone 36N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>0.158824134554714</minValue>
+            <maxValue>0.298942915290594</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>710385</xmin>
+        <ymin>-1758345</ymin>
+        <xmax>727785</xmax>
+        <ymax>-1736835</ymax>
+      </extent>
+      <id>BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B520200825030301245</id>
+      <datasource>./BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B5.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B5</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=36 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3120</srsid>
+          <srid>32636</srid>
+          <authid>EPSG:32636</authid>
+          <description>WGS 84 / UTM zone 36N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>0.113701142549515</minValue>
+            <maxValue>0.288862562656403</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>710385</xmin>
+        <ymin>-1758345</ymin>
+        <xmax>727785</xmax>
+        <ymax>-1736835</ymax>
+      </extent>
+      <id>BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B620200825030301268</id>
+      <datasource>./BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B6.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B6</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=36 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3120</srsid>
+          <srid>32636</srid>
+          <authid>EPSG:32636</authid>
+          <description>WGS 84 / UTM zone 36N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>293.75711221313475</minValue>
+            <maxValue>302.3220901184082</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>710385</xmin>
+        <ymin>-1758345</ymin>
+        <xmax>727785</xmax>
+        <ymax>-1736835</ymax>
+      </extent>
+      <id>BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B720200825030301289</id>
+      <datasource>./BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B7.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>BTcity2006_RT_LT05_L1TP_167071_20060614_20161121_01_T1_B7</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=36 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3120</srsid>
+          <srid>32636</srid>
+          <authid>EPSG:32636</authid>
+          <description>WGS 84 / UTM zone 36N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>0.0606985758244991</minValue>
+            <maxValue>0.21786416734755</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+  </projectlayers>
+  <properties>
+    <Measurement>
+      <DistanceUnits type="QString"></DistanceUnits>
+      <AreaUnits type="QString"></AreaUnits>
+    </Measurement>
+    <SemiAutomaticClassificationPlugin>
+      <bandSetPresent type="QString">No</bandSetPresent>
+      <bndSetWvLn type="QString">[]</bndSetWvLn>
+      <bndSetMultF type="QString">[]</bndSetMultF>
+      <bndSetUnit type="QString">band number</bndSetUnit>
+      <bandSet type="QString">[]</bandSet>
+      <rasterName type="QString"></rasterName>
+      <previewSize type="QString">200</previewSize>
+      <bndSetAddF type="QString">[]</bndSetAddF>
+    </SemiAutomaticClassificationPlugin>
+    <SpatialRefSys>
+      <ProjectCRSProj4String type="QString">+proj=longlat +datum=WGS84 +no_defs</ProjectCRSProj4String>
+      <ProjectCrs type="QString">EPSG:4326</ProjectCrs>
+      <ProjectCRSID type="int">3452</ProjectCRSID>
+    </SpatialRefSys>
+    <Paths>
+      <Absolute type="bool">false</Absolute>
+    </Paths>
+    <Gui>
+      <SelectionColorBluePart type="int">0</SelectionColorBluePart>
+      <CanvasColorGreenPart type="int">255</CanvasColorGreenPart>
+      <CanvasColorRedPart type="int">255</CanvasColorRedPart>
+      <SelectionColorRedPart type="int">255</SelectionColorRedPart>
+      <SelectionColorAlphaPart type="int">255</SelectionColorAlphaPart>
+      <SelectionColorGreenPart type="int">255</SelectionColorGreenPart>
+      <CanvasColorBluePart type="int">255</CanvasColorBluePart>
+    </Gui>
+    <Digitizing>
+      <DefaultSnapToleranceUnit type="int">2</DefaultSnapToleranceUnit>
+      <SnappingMode type="QString">current_layer</SnappingMode>
+      <DefaultSnapType type="QString">off</DefaultSnapType>
+      <DefaultSnapTolerance type="double">0</DefaultSnapTolerance>
+    </Digitizing>
+    <PositionPrecision>
+      <DecimalPlaces type="int">2</DecimalPlaces>
+      <Automatic type="bool">true</Automatic>
+    </PositionPrecision>
+    <Legend>
+      <filterByMap type="bool">false</filterByMap>
+    </Legend>
+  </properties>
+  <visibility-presets/>
+</qgis>
